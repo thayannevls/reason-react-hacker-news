@@ -9,12 +9,14 @@
     "reason-react",
     "bs-fetch",
     "@glennsl/bs-json",
-    "bs-webapi"
+    "bs-webapi",
+    "bs-storybook"
   ],
   "refmt": 3,
   "sources": [
     {
-      "dir": "src"
+      "dir": "src",
+      "subdirs": true
     }
   ]
 }
